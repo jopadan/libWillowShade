@@ -1,0 +1,3 @@
+[submodule "external/bitter"]
+	path = external/bitter
+	url = http://github.com/steinwurf/bitter
